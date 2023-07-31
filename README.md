@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project implements the Catmull-Clark subdivision algorithm. The primary function is to apply the algorithm on a cube, iterating the subdivision process several times to demonstrate the transformations. The program is implemented using OpenGL 4.3, Qt 5.15, and C++17 within the CLion IDE, and compiled with MinGW-32 provided by Qt5.15.
+This project is for **Computer Graphics** class of University of Tokyo.
+
+The project implements the Catmull-Clark subdivision algorithm. The primary function is to apply the algorithm on a cube, iterating the subdivision process several times to demonstrate the transformations. The program is implemented using OpenGL 4.3, Qt 5.15, and C++17 within the CLion IDE, and compiled with MinGW-32 provided by Qt5.15.
 
 
 
@@ -56,7 +58,21 @@ The following screenshots demonstrate the results of applying the Catmull-Clark 
 
 ## Reference
 
-* The Project github link: 
+* The Project github link:  [Fang2896/MeshSubdivision (github.com)](https://github.com/Fang2896/MeshSubdivision)
+
+* OpenGL Tutorial: [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
+
+* Qt References: [Qt 5.15](https://doc.qt.io/qt-5.15/)
+
+* OpenGL of Qt Tutorial: [现代OpenGL学习教程_HELLO_IHAD的博客-CSDN博客](https://blog.csdn.net/z136411501/category_7565669.html?spm=1001.2014.3001.5482)
+
+* Data Structures and Catmull-Clark subdivision algorithm references:
+
+  [Catmull–Clark subdivision surface - Rosetta Code](https://rosettacode.org/wiki/Catmull–Clark_subdivision_surface#Python)
+
+  [Catmull–Clark subdivision surface - Wikipedia](https://en.wikipedia.org/wiki/Catmull–Clark_subdivision_surface)
+
+  [chobao/SubdivisionSurfaces: (Doo-Sabin, Catmull-Clark, and Loop) in a GUI (github.com)](https://github.com/chobao/SubdivisionSurfaces)
 
 
 
