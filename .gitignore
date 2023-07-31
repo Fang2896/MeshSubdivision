@@ -1,0 +1,9 @@
+/cmake-build-debug/
+/build32/
+/build64/
+
+/cmake-build-debug-qt-mingw-32/
+/qt-build-mingw-32/
+
+/.idea/
+/.vscode/
